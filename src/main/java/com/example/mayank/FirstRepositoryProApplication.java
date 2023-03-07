@@ -11,4 +11,5 @@ public class FirstRepositoryProApplication {
 	}
 
 	public void main() {}
+	public void main1() {}
 }
