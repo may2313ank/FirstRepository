@@ -8,6 +8,7 @@ public class FirstRepositoryProApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstRepositoryProApplication.class, args);
+		
 	}
 
 	public void main8() {}
