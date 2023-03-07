@@ -10,4 +10,5 @@ public class FirstRepositoryProApplication {
 		SpringApplication.run(FirstRepositoryProApplication.class, args);
 	}
 
+	public void main() {}
 }
