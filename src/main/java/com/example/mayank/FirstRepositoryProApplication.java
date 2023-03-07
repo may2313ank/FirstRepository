@@ -10,6 +10,5 @@ public class FirstRepositoryProApplication {
 		SpringApplication.run(FirstRepositoryProApplication.class, args);
 	}
 
-	public void main() {}
-	public void main1() {}
+	public void main6() {}
 }
