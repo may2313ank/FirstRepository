@@ -12,4 +12,5 @@ public class FirstRepositoryProApplication {
 		b.getMsg();
 	}
 
+	public void main8() {}
 }
