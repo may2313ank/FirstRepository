@@ -6,4 +6,8 @@ public class B {
 		
 		System.out.println("data published by mayank");
 	}
+public void getMsg1() {
+		
+		System.out.println("data published by mayank");
+	}
 }
