@@ -10,7 +10,6 @@ public class FirstRepositoryProApplication {
 		SpringApplication.run(FirstRepositoryProApplication.class, args);
 	}
 
-	public void main6() {}
-	public void main7() {}
-	public void main8() {}
+	public void main() {}
+	public void main1() {}
 }
